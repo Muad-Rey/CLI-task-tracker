@@ -1,0 +1,1 @@
+beautifull-terminal==1.9.11
